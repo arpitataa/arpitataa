@@ -104,7 +104,7 @@ REST APIs • Microservices • JWT • OAuth • CI/CD • Query Optimization
 
 <p align="center">
 
-<a href="https://linkedin.com/in/arpita-nanda">
+<a href="https://www.linkedin.com/in/arpita-nanda-a1340128b/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
